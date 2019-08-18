@@ -1,3 +1,3 @@
 # Tutorial-for-html
 
-This is a tutorial which will cavover Html and CSS.
+This is a tutorial which will covers Html and CSS.
